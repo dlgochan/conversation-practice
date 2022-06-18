@@ -25,11 +25,13 @@ docker build -t flask-application:latest .
 ```
 docker run -d -p 5000:5000 flask-application
 ```
+if port is already allocated, set option '-p {empty port num}:5000'
 #### without Docker
 ```bash
 $ pip install -r requirements.txt
 $ python3 application.py
 ```
+It is recommended to use Docker.
 
 Now the server is available at http://localhost.
 
