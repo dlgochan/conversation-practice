@@ -35,7 +35,7 @@ Now the server is available at http://localhost.
 
 
 ## GPT2-Model List
-> openchat: [https://ainize.ai/Jeong-Hyun-Su/gpt2-large](https://ainize.ai/fpem123/openchat)
+> openchat: [https://ainize.ai/fpem123/openchat](https://ainize.ai/fpem123/openchat)
 > * Used Model
 >   * blender.small
 >   * blender.medium
