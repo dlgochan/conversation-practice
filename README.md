@@ -2,11 +2,18 @@
 
 [Web Demo](https://conversation-practice.run.goorm.io/) | [conversation-practice on Ainize](https://ainize.ai/)
 
+https://user-images.githubusercontent.com/90930393/174440182-4a524670-7d0b-4d2c-8951-553f6f1e4acb.mp4
+
 This repository have source code about conversation pracitce. You can practice speaking English in context by talking to the AI bot.
 
 You can talk to the AI bot and get recommendations for the right answer for your situation!
 
 It's powered by GPT-2 models.
+
+
+
+
+
 
 
 ## How to run
